@@ -1,0 +1,12 @@
+.foto-perfil{border-radius: 100%;
+    max-width: 200px;
+    border: 1px solid black;
+
+}
+
+body{
+    background-image: url(../Opera\ Instantâneo_2024-03-09_181900_index.html.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
